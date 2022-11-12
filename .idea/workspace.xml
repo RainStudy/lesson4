@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72966467-30b6-4fab-b4d2-09200946c5c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/async/Async.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/collection/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/collection/IteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/exception/CrazyThursdayException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/exception/Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/generics/GenericArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/generics/GenericClazz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/generics/GenericInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/generics/GenericMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/generics/IntArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/generics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/generics/MultiGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/generics/Wildcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/io/BufferedIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/io/FileClazz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/io/FileIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/io/IOExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/io/ObjectIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/io/PrintStreamIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/reflection/Annotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/reflection/AutoWired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/reflection/ReflectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/team/redrock/rain/reflection/Reflection.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GqPFXMEptNauLHZ4H6wyUgwce7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rain/Rain/project/study/BadAppleKt&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Async">
+    <configuration name="Annotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="team.redrock.rain.reflection.Annotation" />
+      <module name="lesson4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="team.redrock.rain.reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Async" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="team.redrock.rain.async.Async" />
+      <module name="lesson4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="team.redrock.rain.async.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="team.redrock.rain.io.FileIO" />
+      <module name="lesson4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="team.redrock.rain.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="team.redrock.rain.reflection.Reflection" />
+      <module name="lesson4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="team.redrock.rain.reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="team.redrock.rain.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="team.redrock.rain.Main" />
+      <module name="lesson4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="team.redrock.rain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Async" />
+        <item itemvalue="Application.Annotation" />
+        <item itemvalue="Application.Reflection" />
+        <item itemvalue="Application.FileIO" />
+        <item itemvalue="Application.team.redrock.rain.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72966467-30b6-4fab-b4d2-09200946c5c5" name="Changes" comment="" />
+      <created>1667113039151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667113039151</updated>
+      <workItem from="1667113040703" duration="5436000" />
+      <workItem from="1667135549156" duration="476000" />
+      <workItem from="1667143148380" duration="638000" />
+      <workItem from="1667146185274" duration="39000" />
+      <workItem from="1667481075909" duration="3398000" />
+      <workItem from="1667494807078" duration="599000" />
+      <workItem from="1667531644009" duration="9369000" />
+      <workItem from="1667562126630" duration="3418000" />
+      <workItem from="1667616445192" duration="3822000" />
+      <workItem from="1667655551809" duration="6059000" />
+      <workItem from="1667708076230" duration="10702000" />
+      <workItem from="1667731831904" duration="3693000" />
+      <workItem from="1667747239874" duration="708000" />
+      <workItem from="1667784633052" duration="599000" />
+      <workItem from="1667809447918" duration="599000" />
+      <workItem from="1667814948208" duration="40000" />
+      <workItem from="1667890360367" duration="8824000" />
+      <workItem from="1667911796856" duration="3000" />
+      <workItem from="1667911910103" duration="720000" />
+      <workItem from="1668012409429" duration="773000" />
+      <workItem from="1668046758531" duration="1016000" />
+      <workItem from="1668055596767" duration="1451000" />
+      <workItem from="1668078450256" duration="162000" />
+      <workItem from="1668080272950" duration="12167000" />
+      <workItem from="1668134303507" duration="6234000" />
+      <workItem from="1668166490032" duration="10819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
